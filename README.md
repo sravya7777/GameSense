@@ -52,14 +52,17 @@ python eda_and_visualization.py
 streamlit run streamlit_app.py
 ```
 ---
+
 ## 📄 Report
-All insights are compiled in the report file:
-👉 result.md
-Includes visualizations such as histograms, scatter plots, heatmaps, and an interactive HTML chart.
+- All insights are compiled in the report file:
+- 👉 result.md
+- Includes visualizations such as histograms, scatter plots, heatmaps, and an interactive HTML chart.
 ---
+
 ## 🙌 Acknowledgments
-This project uses synthetic data generated to represent real-world gaming behavior. It was built as a data analyst portfolio project using open-source tools.
+- This project uses synthetic data generated to represent real-world gaming behavior. It was built as a data analyst portfolio project using open-source tools.
 ---
+
 ## 🔗 License
-This project is licensed under the MIT License – free to use for educational and academic purposes.
+- This project is licensed under the MIT License – free to use for educational and academic purposes.
 
